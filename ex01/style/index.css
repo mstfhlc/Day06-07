@@ -1,0 +1,46 @@
+table,
+td,
+th {
+    text-decoration: none;
+}
+
+.h2 {
+    text-align: center;
+}
+
+img {
+    width: 230px;
+    height: 200px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    width: 500px;
+    height: 20px;
+    text-align: justify;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.p {
+    height: 200px;
+    overflow: auto;
+    text-align: left;
+}
+
+.body {
+    width: 700px;
+    margin: 30px auto ;
+
+}
+.p1{
+    font-size: 11px;
+}
+
+.p2{
+    text-decoration: none;
+}
